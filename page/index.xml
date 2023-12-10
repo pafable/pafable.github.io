@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on PAFABLE</title>
+    <link>https://pafable.github.io/page/</link>
+    <description>Recent content in Pages on PAFABLE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2023 15:01:12 -0500</lastBuildDate>
+    <atom:link href="https://pafable.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://pafable.github.io/page/contact/</link>
+      <pubDate>Sun, 10 Dec 2023 15:01:12 -0500</pubDate>
+      <guid>https://pafable.github.io/page/contact/</guid>
+      <description>Email:</description>
+    </item>
+  </channel>
+</rss>
